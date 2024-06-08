@@ -2,6 +2,7 @@
 git config --global alias.dd add
 git config --global alias.br branch
 git config --global alias.ch checkout
+git config --global alias.cl clone
 git config --global alias.cm commit
 git config --global alias.df diff
 git config --global alias.ft fetch
